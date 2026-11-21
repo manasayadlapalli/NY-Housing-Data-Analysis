@@ -1,7 +1,9 @@
 # NY Housing Data Analysis
 
-**Residency Project Day 1 — Group 1**
-**Team:** Manasa, Vineeth, Ismail
+**Residency Project Day 1 — Group 1**  
+**Course:** Python Application for Data Analytics in AI  
+**Professor:** Najam Hassan  
+**Team:** Sai Manasa Yadlapalli, Vineeth Avvaru, Ismail Oluwatobiloba Sule-Odu
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manasayadlapalli/NY-Housing-Data-Analysis/blob/main/NY_Housing_Price_Prediction.ipynb)
 
@@ -12,7 +14,7 @@ A Python data analytics solution that predicts New York City home listing prices
 | File | Description |
 |---|---|
 | `NY_Housing_Price_Prediction.ipynb` | Google Colab notebook: data exploration, cleaning, feature engineering, EDA charts and model training/evaluation |
-| `NY_Housing_Project_Report.docx` / `.pdf` | Written report (Introduction & Problem Framing, Dataset Exploration & Preprocessing, Initial Model Development, Team Collaboration) |
+| `NY_Housing_Project_Report.pdf` | Written report in APA 7 format (Introduction & Problem Framing, Dataset Exploration & Preprocessing, Initial Model Development, Team Collaboration) |
 | `NY-House-Dataset.csv` | NY Housing Market dataset (4,801 listings, 17 columns), sourced from Kaggle |
 
 ## Key results (test set, 20% hold-out)
@@ -33,4 +35,4 @@ Main data-quality findings: 214 duplicate rows, ~1/3 of square-footage values pr
 **Libraries:** pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 
 ## Dataset
-NY Housing Market dataset, Kaggle (New York house listings with price, beds, baths, square footage, broker and location fields). Included here for reproducibility of a class project; all rights remain with the original dataset author.
+Elgiriyewithana, N. (2024). *New York housing market* [Data set]. Kaggle. https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market. Included here for reproducibility of a class project; all rights remain with the original dataset author.
